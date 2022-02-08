@@ -10,6 +10,7 @@
 
 ```javascript
 const gaston = {
+    country: ["argentina"],
     askMeAbout: ["web dev", "tech", "computer networking"],
     code: [PHP, Javascript, Java, C, C++, HTML, CSS, Haskell],
     technologies:{
