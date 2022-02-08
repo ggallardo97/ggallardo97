@@ -11,11 +11,18 @@
 ```javascript
 const gaston = {
     askMeAbout: ["web dev", "tech", "computer networking"],
+    code: [PHP, Javascript, Java, C, C++, HTML, CSS, Haskell],
     technologies:{
-        backEnd: ["php", "CI4", "laravel", "nodejs", "express", "C / C++" , "java"],
+        backEnd: {
+            php:  ["CodeIgniter 4", "Laravel"],
+            js:   ["Node", "Express"],
+            java: ["Spring"],
+            misc: ["Bash", "Docker"]
+         },
         database: ["postgresql", "mongo", "mysql"],
         os: ["windows", "linux"]
-    }
+    },
+    currentOccupation: ["cs student, open for job opportunities"],
 }
 ```
 ---
