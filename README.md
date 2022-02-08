@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**ggallardo97/ggallardo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+## Hi there 👋, I'm Gaston Gallardo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/LinkedIn-Gaston-blue)]()
+[![](https://img.shields.io/badge/Gmail-gasgallardo97gmail.com-red)](mailto:gasgallardo97@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const gaston = {
+    askMeAbout: ["web dev", "tech", "computer networking"],
+    technologies:{
+        backEnd: ["php", "CI4", "laravel", "nodejs", "express", "C / C++" , "java"],
+        database: ["postgresql", "mongo", "mysql"],
+        os: ["windows", "linux"]
+    }
+}
+```
+---
