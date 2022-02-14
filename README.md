@@ -3,7 +3,7 @@
 ## Hi there 👋, I'm Gaston Gallardo!
 
 <!--[![](https://img.shields.io/badge/LinkedIn-Gaston-blue)]()-->
-[![](https://img.shields.io/badge/Gmail-gasgallardo@97gmail.com-red)](mailto:gasgallardo97@gmail.com)
+[![](https://img.shields.io/badge/Gmail-gasgallardo97@gmail.com-red)](mailto:gasgallardo97@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
