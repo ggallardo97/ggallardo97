@@ -20,10 +20,11 @@ const gaston = {
          },
         database: ["Postgresql", "MongoDB", "MySQL"],
         os: ["Windows", "Linux"],
-        software: ["Postman"],
+        software: ["Postman", "Matlab", "Octave"],
         devops: ["Docker", "Bash"],
-        testing: ["Puppeteer"]
+        testing: ["Puppeteer"],
     },
+    languages: ["spanish", "english"]
     currentOccupation: ["open for job opportunities"]
 }
 ```
