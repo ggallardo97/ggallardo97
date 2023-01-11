@@ -25,7 +25,7 @@ const gaston = {
         testing: ["Puppeteer"],
     },
     languages: ["spanish", "english"],
-    interests: ["music", "physics", "aeronautics"],
+    interests: ["physics", "aeronautics", "music"],
     currentOccupation: ["open for job opportunities"]
 }
 ```
