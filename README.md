@@ -24,7 +24,7 @@ const gaston = {
         devops: ["Docker", "Bash"],
         testing: ["Puppeteer"],
     },
-    languages: ["spanish", "english"]
+    languages: ["spanish", "english"],
     currentOccupation: ["open for job opportunities"]
 }
 ```
