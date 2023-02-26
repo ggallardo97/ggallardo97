@@ -19,7 +19,7 @@ const gaston = {
             java: ["Spring"]
          },
         database: ["Postgresql", "MongoDB", "MySQL"],
-        os: ["Windows", "Linux"],
+        os: ["Linux", "Windows"],
         software: ["Postman", "Matlab", "Octave"],
         devops: ["Docker", "Bash"],
         testing: ["Puppeteer"],
