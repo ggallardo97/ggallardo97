@@ -2,8 +2,6 @@
 <!--[![](https://img.shields.io/badge/LinkedIn-Gaston-blue)]()-->
 [![](https://img.shields.io/badge/Gmail-gasgallardo97@gmail.com-red)](mailto:gasgallardo97@gmail.com)
 
-A little more about me...  
-
 ```javascript
 const gaston = {
     country: ["argentina"],
